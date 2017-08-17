@@ -1,0 +1,4 @@
+DiscountRequirement.HasOneProduct
+DiscountRequirement.MustBeAssignedToCustomerRole
+CurrencyExchange.ECB
+ExternalAuth.Facebook
